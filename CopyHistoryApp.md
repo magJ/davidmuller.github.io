@@ -56,4 +56,4 @@ Use the Saved Entries Manager view. Click on the clipboard icon in your menu bar
 
 Send us an email at copyhistoryapp@gmail.com
 
-<a href="CopyHistoryApp-privacy">title=CopyHistory App Privacy</a>
+<a href="CopyHistoryApp-privacy">CopyHistory App Privacy</a>
