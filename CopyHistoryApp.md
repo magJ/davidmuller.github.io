@@ -1,4 +1,4 @@
-# CopyHistoryApp <img src="images/CopyHistoryApp_icon_128x128@2x.png" width="32" height="32" alt="Computer Hope">
+# CopyHistory App
 
 CopyHistory App is a clipboard manager available on the Mac App Store.
 
