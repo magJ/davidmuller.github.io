@@ -44,6 +44,12 @@ CopyHistory App respects the guidelines on [http://nspasteboard.org](http://nspa
 
 Yes, configure a hotkey in CopyHistory App's Preferences.
 
+**How do I access the Preferences view?**
+
+Click on the clipboard icon in the top right corner of your screen to bring up menu options:
+
+![menu-bar-menu](/images/menu-bar-menu.png)
+
 **How do I enable "auto paste"?**
 
 When you select an entry in CopyHistory App by pressing `enter` or clicking on it, it can be automatically pasted into your currently active window. Enable this feature in CopyHistory App's Preferences.
