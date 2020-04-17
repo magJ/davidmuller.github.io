@@ -1,6 +1,10 @@
 # CopyHistoryApp
 
-CopyHistory App is a clipboard manager for macOS.
+CopyHistory App is a clipboard manager available on the Mac App Store.
+
+<a href="https://apps.apple.com/us/app/copyhistory-app/id1508058732?ls=1">
+  <img src="/images/Download_on_the_Mac_App_Store_Badge_US-UK_RGB_blk_092917.svg">
+</a>
 
 ### Use CopyHistory App to Remember Text You Have Copied to Your Clipboard
 
@@ -56,4 +60,9 @@ Use the Saved Entries Manager view. Click on the clipboard icon in your menu bar
 
 Send us an email at copyhistoryapp@gmail.com
 
+
 <a href="CopyHistoryApp-privacy">CopyHistory App Privacy</a>
+
+---
+
+macOS® and Mac App Store℠ are registered trademarks of Apple Inc.
