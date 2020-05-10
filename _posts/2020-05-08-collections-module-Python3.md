@@ -11,10 +11,6 @@ categories: posts
 
 *This article was [originally published in DigitalOcean’s public knowledge base](https://www.digitalocean.com/community/tutorials/how-to-use-the-collections-module-in-python-3). It has been reproduced here with some minor edits.*
 
-# How To Use the collections Module in Python 3
-
-*The author selected the [COVID-19 Relief Fund](https://www.brightfunds.org/funds/write-for-donations-covid-19-relief-fund) to receive a donation as part of the [Write for DOnations](https://do.co/w4do-cta) program.*
-
 ### Introduction
 
 Python 3 has a number of built-in data structures, including tuples, dictionaries, and lists. Data structures provide us with a way to organize and store data. The `collections` module helps us populate and manipulate data structures efficiently.
@@ -137,9 +133,9 @@ If we run this code, we'll see output like the following:
 ```python
 []
 ```
-`defaultdict` inserts and returns a placeholder value instead of throwing a `KeyError`. In this case we specified the placeholder value as a list.
+`defaultdict` inserts and returns a placeholder value instead of raising a `KeyError`. In this case we specified the placeholder value as a list.
 
-Regular dictionaries, in contrast, will throw a `KeyError` on missing keys:
+Regular dictionaries, in contrast, will raise a `KeyError` on missing keys:
 
 ```python
 my_regular_dict = {}
@@ -194,7 +190,7 @@ Running this code, we'll see the following output:
 defaultdict(<class 'list'>, {'tank-a': ['Sammy', 'Mary'], 'tank-b': ['Jamie']})
 ```
 
-`fish_names_by_tank` is declared as a `defaultdict` that defaults to inserting `list()` instead of throwing a `KeyError`. Since this guarantees that every key in `fish_names_by_tank` will point to a `list`,  we can freely call `.append()` to add names to each tank's list.
+`fish_names_by_tank` is declared as a `defaultdict` that defaults to inserting `list()` instead of raising a `KeyError`. Since this guarantees that every key in `fish_names_by_tank` will point to a `list`,  we can freely call `.append()` to add names to each tank's list.
 
 `defaultdict` helps you here because it reduces the chance of unexpected `KeyErrors`. Reducing the unexpected `KeyErrors` means your program can be written more clearly and with fewer lines. More concretely, the `defaultdict` idiom lets you avoid manually instantiating an empty list for every tank.
 
