@@ -165,7 +165,7 @@ fish_inventory = [
 
 Three fish exist in the aquarium—their name, species, and holding tank are noted in these three tuples.
 
-Our goal is to organize our inventory by tank—we want to know the list of fish present in each tank. In other words, we want a dictionary that maps `"tank-a"` to `["Jamie", "Mary"]` and `"tank-b"` to `["Jamie"]`.
+Our goal is to organize our inventory by tank—we want to know the list of fish present in each tank. In other words, we want a dictionary that maps `"tank-a"` to `["Sammy", "Mary"]` and `"tank-b"` to `["Jamie"]`.
 
 We can use `defaultdict` to group fish by tank:
 
