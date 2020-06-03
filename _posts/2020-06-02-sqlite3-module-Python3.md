@@ -9,7 +9,7 @@ categories: posts
 
 <small style="font-weight: 175;">{{ page.date | date: "%-d %B, %Y"}}</small>
 
-*This article was [originally published in DigitalOcean’s public knowledge base](hhttps://www.digitalocean.com/community/tutorials/how-to-use-the-sqlite3-module-in-python-3). It has been reproduced here with some minor edits.*
+*This article was [originally published in DigitalOcean’s public knowledge base](https://www.digitalocean.com/community/tutorials/how-to-use-the-sqlite3-module-in-python-3). It has been reproduced here with some minor edits.*
 
 ### Introduction
 
