@@ -112,7 +112,7 @@ Let's modify `wiki_page_function.py` so it now reads like this:
 ```python
 # wiki_page_function.py
 import requests
-import concurrent.futures<^>
+import concurrent.futures
 
 def get_wiki_page_existence(wiki_page_url, timeout=10):
     response = requests.get(url=wiki_page_url, timeout=timeout)
@@ -236,7 +236,7 @@ First, let's time `get_wiki_page_existence` if we run it without threads:
 
 ```python
 # wiki_page_function.py
-<^>import time<^>
+import time
 import requests
 import concurrent.futures
 
