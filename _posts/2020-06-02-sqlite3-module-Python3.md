@@ -226,3 +226,5 @@ Since `"SELECT 1"` is a SQL statement that always returns a single row with a si
 The `sqlite3` module is a powerful part of the Python standard library; it lets us work with a fully featured on-disk SQL database without installing any additional software.
 
 In this tutorial, we learned how to use the `sqlite3` module to connect to a SQLite database, add data to that database, as well as read and modify data in that database. Along the way, we also learned about the risks of SQL injection attacks and how to use [`contextlib.closing`](https://docs.python.org/3.8/library/contextlib.html#contextlib.closing) to automatically call `close()` on Python objects in `with` statements.
+
+*Editor: Kathryn Hancox*

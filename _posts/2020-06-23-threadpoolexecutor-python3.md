@@ -338,3 +338,5 @@ On the machine used in this tutorial, without threads took `~5.803` seconds, and
 In this tutorial, you have learned how to use the `ThreadPoolExecutor` utility in Python 3 to efficiently run code that is I/O bound. You created a function well suited to invocation within threads, learned how to retrieve both output and exceptions from threaded executions of that function, and observed the performance boost gained by using threads.
 
 From here you can learn more about other concurrency functions offered by the [`concurrent.futures` module](https://docs.python.org/3/library/concurrent.futures.html).
+
+*Editor: Kathryn Hancox*

@@ -270,3 +270,5 @@ We can instantiate a `deque` using a preexisting collection of elements, in this
 The `collections` module is a powerful part of the Python standard library that lets you work with data concisely and efficiently. This tutorial covered three of the classes provided by the `collections` module including `namedtuple`, `defaultdict`, and `deque`.
 
 From here, you can use [the `collection` module's documentation](https://docs.python.org/3/library/collections.html#module-collections) to learn more about other available classes and utilities. To learn more about Python in general, you can read our [How To Code in Python 3 tutorial series](https://www.digitalocean.com/community/tutorial_series/how-to-code-in-python-3).
+
+*Editor: Kathryn Hancox*
