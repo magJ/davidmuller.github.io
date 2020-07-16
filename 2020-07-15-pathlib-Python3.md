@@ -280,3 +280,5 @@ ValueError: 'ocean/animals/fish/shark.txt' does not start with 'unrelated/path'
 The `pathlib` module is a powerful part of the [Python Standard Library](https://docs.python.org/3/library/) that lets us manipulate filesystem paths quickly on any operating system. In this tutorial, we have learned to use some of `pathlib`'s key utilities for accessing file attributes, listing files with glob patterns, and traversing parent files and directories.
 
 The `pathlib` module exposes additional classes and utilities that we did not cover in this tutorial. Now that you have a baseline, you can use [the `pathlib` module's documentation](https://docs.python.org/3/library/pathlib.html) to learn more about other available classes and utilities.
+
+*Editor: Kathryn Hancox*
