@@ -45,7 +45,6 @@ print(wave)
 If we run this code, we'll receive output like the following:
 
 ```
-[secondary_label Output]
 ocean/wave.txt
 ```
 
@@ -67,7 +66,6 @@ print(wave_absolute)
 If we run this code, we'll receive output roughly like the following:
 
 ```
-[secondary_label Output]
 /Users/sammy
 /Users/sammy/ocean/wave.txt
 ```
@@ -88,7 +86,6 @@ print(shark)
 If we run this Python code, we'll receive output similar to the following:
 
 ```
-[secondary_label Output]
 /Users/sammy/ocean/animals/fish/shark.txt
 ```
 
@@ -110,7 +107,6 @@ print(wave.suffix)
 Running this code, we'll receive output similar to the following:
 
 ```
-[secondary_label Output]
 /Users/sammy/ocean/wave.txt
 wave.txt
 .txt
@@ -149,7 +145,6 @@ print(shark.parent)
 If we run this code, we'll receive output that looks like the following:
 
 ```
-[secondary_label Output]
 ocean/animals/fish/shark.txt
 ocean/animals/fish
 ```
@@ -167,7 +162,6 @@ print(shark.parent.parent)
 If we run this code, we'll receive the following output:
 
 ```
-[secondary_label Output]
 ocean/animals/fish/shark.txt
 ocean/animals
 ```
@@ -201,7 +195,6 @@ for txt_path in Path("ocean").glob("*.txt"):
 This code would yield output like:
 
 ```
-[secondary_label Output]
 ocean/wave.txt
 ocean/tides.txt
 ```
@@ -221,7 +214,6 @@ for txt_path in Path("ocean").glob("**/*.txt"):
 If we run this code, we'd receive output like the following:
 
 ```
-[secondary_label Output]
 ocean/wave.txt
 ocean/tides.txt
 ocean/animals/fish/shark.txt
@@ -247,7 +239,6 @@ print(below_animals)
 If we run this, we'll receive output like the following:
 
 ```
-[secondary_label Output]
 ocean/animals/fish/shark.txt
 animals/fish/shark.txt
 fish/shark.txt
@@ -265,7 +256,6 @@ shark.relative_to(Path("unrelated", "path"))
 We'll receive a `ValueError` exception raised from this code that will be something like this:
 
 ```
-[secondary_label Output]
 Traceback (most recent call last):
   File "<stdin>", line 1, in <module>
   File "/usr/local/lib/Python3.8/pathlib.py", line 899, in relative_to
