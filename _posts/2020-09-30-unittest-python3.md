@@ -179,17 +179,17 @@ OK
 Notably, our test would have failed if `add_fish_to_aquarium` either didn't raise an Exception, or raised a different Exception (for example `TypeError` instead of `ValueError`).
 
 > **Note:** `unittest.TestCase` exposes a number of other methods beyond `assertEqual` and `assertRaises` that you can use. The full list of assertion methods can be found [in the documentation](https://docs.python.org/3/library/unittest.html), but a selection are included here:
-
-| Method                 | Assertion          |
-|------------------------|--------------------|
-| `assertEqual(a, b)`    | `a == b`           |
-| `assertNotEqual(a, b)` | `a != b`           |
-| `assertTrue(a)`        | `bool(a) is True`  |
-| `assertFalse(a)`       | `bool(a) is False` |
-| `assertIsNone(a)`      | `a is None`        |
-| `assertIsNotNone(a)`   | `a is not None`    |
-| `assertIn(a, b)`       | `a in b`           |
-| `assertNotIn(a, b)`    | `a not in b`       |
+>
+> | Method                 | Assertion          |
+> |------------------------|--------------------|
+> | `assertEqual(a, b)`    | `a == b`           |
+> | `assertNotEqual(a, b)` | `a != b`           |
+> | `assertTrue(a)`        | `bool(a) is True`  |
+> | `assertFalse(a)`       | `bool(a) is False` |
+> | `assertIsNone(a)`      | `a is None`        |
+> | `assertIsNotNone(a)`   | `a is not None`    |
+> | `assertIn(a, b)`       | `a in b`           |
+> | `assertNotIn(a, b)`    | `a not in b`       |
 
 Now that we've written some basic tests, let's see how we can use other tools provided by `TestCase` to harness whatever code we are testing.
 
