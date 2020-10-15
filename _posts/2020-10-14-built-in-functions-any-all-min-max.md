@@ -278,6 +278,6 @@ You call `min` with an empty list as its argument. `min` does not accept this as
 
 ## Conclusion
 
-In this tutorial, you used the Python built-in functions `all`, `any`, `max`, and `min`. You can learn more about the functions `all`, `any`, `max`, and `min` and other Python built-in [in the Python docs](https://docs.python.org/3/library/functions.html).
+In this tutorial, you used the Python built-in functions `all`, `any`, `max`, and `min`. You can learn more about the functions `all`, `any`, `max`, and `min` and other Python built-ins [in the Python docs](https://docs.python.org/3/library/functions.html).
 
 *Editor: Kathryn Hancox*
