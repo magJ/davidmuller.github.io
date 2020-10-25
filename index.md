@@ -3,7 +3,7 @@
 <ul>
   {% for post in site.posts %}
     <li>
-      <small>{{ post.date | date: "%m/%d/%Y" }}</small> - <b><a href="{{ post.url }}">{{ post.title }}</a></b>
+      {{ post.date | date: "%m/%d/%Y" }} - <b><a href="{{ post.url }}">{{ post.title }}</a></b>
     </li>
   {% endfor %}
 </ul>
