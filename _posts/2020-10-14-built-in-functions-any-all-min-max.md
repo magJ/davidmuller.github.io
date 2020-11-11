@@ -7,6 +7,8 @@ categories: posts
 
 # {{ page.title }}
 
+<small style="font-weight: 175;">{{ page.date | date: "%-d %B, %Y"}}</small>
+
 *This article was [originally published in DigitalOcean’s public knowledge base](https://www.digitalocean.com/community/tutorials/how-to-use-built-in-functions-all-any-max-and-min-in-python). It has been reproduced here with some minor edits.*
 
 ### Introduction
