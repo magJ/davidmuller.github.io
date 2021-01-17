@@ -14,7 +14,7 @@ For additional help and concerns with CopyHistory App, email copyhistoryapp@gmai
 
 ## 2. When Using Our Website
 
-We hold and retain very minimal information when you visit our website; to help us understand how we can make this website better for you, we use Google Analytics on davidmuller.github.io. Google Analytics will use cookies, provided this feature is enabled in your browser. This information is anonymous and does not provide us with identifiable information, but helps us understand how the site is used.
+We hold and retain very minimal information when you visit our website; to help us understand how we can make this website better for you. This information is anonymous and does not provide us with identifiable information, but helps us understand how the site is used.
 
 ## Changes to this policy
 
