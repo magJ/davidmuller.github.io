@@ -210,7 +210,7 @@ tank_to_fish = {
 }
 
 parser = argparse.ArgumentParser(description="List fish in aquarium.")
-parser.add_argument("tank", type=str<^>, help="Tank to print fish from."<^>)
+parser.add_argument("tank", type=str, help="Tank to print fish from.")
 parser.add_argument(
     "--upper-case",
     default=False,
