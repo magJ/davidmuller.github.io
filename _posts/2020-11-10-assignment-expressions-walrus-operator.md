@@ -40,7 +40,6 @@ if (list_length := len(some_list)) > 2:
 If you run the previous code, you will receive the following output:
 
 ```
-[secondary_label Output]
 List length of 3 is too long
 ```
 
@@ -130,7 +129,6 @@ def slow_calculation(x):
 If you run the previous code, you will receive the following:
 
 ```
-[secondary_label Output]
 Multiplying 0 * 0
 Multiplying 1 * 1
 Multiplying 2 * 2
@@ -153,7 +151,6 @@ def slow_calculation(x):
 Running this, you will receive the following output:
 
 ```
-[secondary_label Output]
 Multiplying 0 * 0
 Multiplying 1 * 1
 Multiplying 1 * 1
