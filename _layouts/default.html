@@ -35,8 +35,10 @@
       </div>
     </div>
     <script>anchors.add();</script>
-    <script data-goatcounter="https://davidmuller-blog.goatcounter.com/count"
+    {% if jekyll.environment == "production" %}
+      <script data-goatcounter="https://davidmuller-blog.goatcounter.com/count"
         async src="//gc.zgo.at/count.js"></script>
-    <script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "c7769d20b0d240bfbab7fadf967f5e8d"}'></script>
+      <script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "c7769d20b0d240bfbab7fadf967f5e8d"}'></script>
+    {% endif %}
   </body>
 </html>
