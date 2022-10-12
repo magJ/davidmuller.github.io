@@ -11,7 +11,9 @@
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
   </head>
   <body>
-    <div class="container-lg px-3 my-5 markdown-body">
+    <!-- Use container-md to reduce width to 768px as per: -->
+    <!-- https://github.com/pages-themes/primer/pull/6 -->
+    <div class="container-md px-3 my-5 markdown-body">
       {% if site.title and site.title != page.title %}
       <h2>
         <span>davidmuller.github.io</span>
