@@ -122,7 +122,7 @@ Yes, a lot. Many thanks to my older brother, Steve, and my Dad.
 | Feb 2022 | Dealer says car has no parasitic draw.                                                                                                         |
 | Feb 2022 | Car dies day after dealer returns it.                                                                                                          |
 | Feb 2022 | Fully disassemble key fobs (remove batteries). Only use metal backup key.                                                                      |
-| Feb 2022 | Self diagnose parasitc draw on `TCM` fuse (and others).                                                                                        |
+| Feb 2022 | Self diagnose parasitic draw on `TCM` fuse (and others).                                                                                        |
 | Feb 2022 | Get new mechanic.                                                                                                                              |
 | Feb 2022 | New mechanic says I just need a new battery. "Low voltage from your degraded battery makes the keyless system malfunction and drain your car." |
 | Feb 2022 | Get new battery.                                                                                                                               |
