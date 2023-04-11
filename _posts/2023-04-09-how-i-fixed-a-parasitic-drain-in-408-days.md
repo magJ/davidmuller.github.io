@@ -32,7 +32,7 @@ Using [a lookup table for my brand of fuses](https://m.roadkillcustoms.com/wp-co
 
 According to one mechanic who worked on my car, the total draw on my 2013 Mazda3 should be `50mA` or less when the car is parked and locked. So, the `197mA` to the transmission computer (`TCM`) was especially troubling. Why would the transmission computer remain on when the car was parked and locked, anyways?
 
-When my car fist started dying in Februrary 2022, the key fobs started malfunctioning. Sometimes when I tried to use a fob, the car would sound warning chirps for ~10 seconds. Paranoid the key fobs were causing the drain, I hadn't used the fobs since the car first died. I had removed the batteries from the fobs, and only used my metal backup key.
+When my car first started dying in Februrary 2022, the key fobs started malfunctioning. Sometimes when I tried to use a fob, the car would sound warning chirps for ~10 seconds. Paranoid the key fobs were causing the drain, I hadn't used the fobs since the car first died. I had removed the batteries from the fobs, and only used my metal backup key.
 
 Now over a year later, I guessed that the keyless system was still malfunctioning even though I wasn't using the fobs. Perhaps, the car thought a key fob was present in the car, and it was keeping systems like its transmission computer (`TCM`) switched on endlessly by mistake.
 
