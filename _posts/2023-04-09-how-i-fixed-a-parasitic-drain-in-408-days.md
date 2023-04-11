@@ -104,6 +104,7 @@ I used [this site](https://www.allcarmanuals.com/factory-service-manual-346-Mazd
 I read lots of forum threads about parasitic drains. One common theme was faulty bluetooth modules:
 - [Post about the bluetooth module causing a drain](https://www.mazdaforum.com/forum/mazda3-26/mazda-3-parasitic-drain-39452/page3/#post192957).
 - ["Puzzling battery drain" - with another mention of bluetooth](https://www.mazdaforum.com/forum/mazda3-26/puzzling-battery-drain-48584/#post199744).
+- There is also some discussion of parasitic draws [in the comments section of the hackernews post for this blog entry](https://news.ycombinator.com/item?id=35513636).
 
 **How did you remove the glove compartment to access the keyless control module?**
 
